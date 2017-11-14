@@ -1,4 +1,4 @@
 #!/usr/bin/env ruby
 
 puts "Please enter 1-9:"
-num = gets.chop.to_i
+input = gets.chop.to_i
